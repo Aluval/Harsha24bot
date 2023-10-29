@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐀𝐋𝐈𝐍𝐒𝐇𝐀𝐍!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!;𝐖𝐈𝐓𝐇+𝐔𝐒𝐄+𝐅𝐔𝐋𝐋+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝐇𝐚𝐫𝐬𝐡𝐚 𝟐𝟒 ✨+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐀𝐋𝐈𝐍𝐒𝐇𝐀𝐍!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!;𝐖𝐈𝐓𝐇+𝐔𝐒𝐄+𝐅𝐔𝐋𝐋+𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/cf1a9362643ec3375589d.jpg">
+  <img src="https://graph.org/file/30142abd7d1e34a4c5216.jpg">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> 𝐇𝐚𝐫𝐬𝐡𝐚 𝟐𝟒 ✨ 𝐁𝐎𝐓</b>
 </h1>
 
 
