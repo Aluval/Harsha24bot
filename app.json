@@ -1,11 +1,11 @@
 {
-    "name": "PROFESSOR-BOT",
+    "name": "𝐇𝐚𝐫𝐬𝐡𝐚 𝟐𝟒 ✨",
     "description": "the telegram Autofilter bot",
-    "logo": "https://telegra.ph/file/274ad030d5df5e3d100fa.jpg",
+    "logo": "https://graph.org/file/30142abd7d1e34a4c5216.jpg",
     "stack": "container",
     "keywords": ["telegram", "auto-filter"],
-    "website": "https://github.com/MrMKN/PROFESSOR-BOT",
-    "repository": "https://github.com/MrMKN/PROFESSOR-BOT",
+    "website": "https://github.com/Aluval/Harsha24bot",
+    "repository": "https://github.com/Aluval/Harsha24bot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
